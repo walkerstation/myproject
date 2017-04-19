@@ -207,7 +207,7 @@ void clean_screen(unsigned long *fb, int w, int h)
 
 }
 
-
+/*the uart write read func*/
 void uart_write(char c)
 {
 	while(!(UTRSTAT & 0x4));
