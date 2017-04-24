@@ -1,3 +1,5 @@
+/*this is for test master and dev branch*/
+
 #define Base_address	0x13830000
 #define GPL2CON         (*(volatile unsigned long *) 0x11000100)
 #define GPL2DAT         (*(volatile unsigned long *) 0x11000104)
