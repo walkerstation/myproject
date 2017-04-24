@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 /*user for test*/
 //the stupid boss
+=======
+
+>>>>>>> dev
 #define Base_address	0x13830000
 #define GPL2CON         (*(volatile unsigned long *) 0x11000100)
 #define GPL2DAT         (*(volatile unsigned long *) 0x11000104)
