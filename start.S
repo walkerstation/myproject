@@ -1,5 +1,3 @@
-Cadd testfor git push
-C
 
 bal _start
 
